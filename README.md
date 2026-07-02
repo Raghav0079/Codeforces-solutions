@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 8 |
+| 5 | 10 |
 
 ---
 
@@ -14,10 +14,12 @@
 
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (2)
+- [games](#games) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (2)
-- [math](#math) (2)
+- [greedy](#greedy) (3)
+- [math](#math) (3)
 - [number theory](#number-theory) (2)
 - [trees](#trees) (1)
 
@@ -35,12 +37,24 @@
 |---|---------|------------|----------|
 | 2241E | [Fair and Square](https://codeforces.com/contest/2241/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/E%20-%20Fair%20and%20Square/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241F | [A Bit Odd](https://codeforces.com/contest/2241/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/F%20-%20A%20Bit%20Odd/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2236E | [Friendly Gifts](https://codeforces.com/contest/2236/problem/E) | 1700 | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2236/E%20-%20Friendly%20Gifts/solution.cpp) |
 | 2241E | [Fair and Square](https://codeforces.com/contest/2241/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/E%20-%20Fair%20and%20Square/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241F | [A Bit Odd](https://codeforces.com/contest/2241/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/F%20-%20A%20Bit%20Odd/solution.cpp) |
 
 ### graphs
 
@@ -54,6 +68,7 @@
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
+| 2241F | [A Bit Odd](https://codeforces.com/contest/2241/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/F%20-%20A%20Bit%20Odd/solution.cpp) |
 
 ### math
 
@@ -61,6 +76,7 @@
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241E | [Fair and Square](https://codeforces.com/contest/2241/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/E%20-%20Fair%20and%20Square/solution.cpp) |
+| 2241F | [A Bit Odd](https://codeforces.com/contest/2241/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2241/F%20-%20A%20Bit%20Odd/solution.cpp) |
 
 ### number theory
 
