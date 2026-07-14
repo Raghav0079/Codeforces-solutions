@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 10 |
+| 6 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
@@ -24,6 +25,12 @@
 - [trees](#trees) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
 ### brute force
 
