@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 11 |
+| 9 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
@@ -33,6 +33,7 @@
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
+| 2244F | [Anya Loves Trees!](https://codeforces.com/contest/2244/problem/F) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Raghav0079/Codeforces-solutions/blob/HEAD/2244/F%20-%20Anya%20Loves%20Trees!/solution.cpp) |
 
 ### brute force
 
